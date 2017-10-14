@@ -1,0 +1,10 @@
+D:\Programação\Moving to .Net Core 2.0\LoopC\bin\Debug\netcoreapp2.0\LoopC.deps.json
+D:\Programação\Moving to .Net Core 2.0\LoopC\bin\Debug\netcoreapp2.0\LoopC.runtimeconfig.json
+D:\Programação\Moving to .Net Core 2.0\LoopC\bin\Debug\netcoreapp2.0\LoopC.runtimeconfig.dev.json
+D:\Programação\Moving to .Net Core 2.0\LoopC\bin\Debug\netcoreapp2.0\LoopC.dll
+D:\Programação\Moving to .Net Core 2.0\LoopC\bin\Debug\netcoreapp2.0\LoopC.pdb
+D:\Programação\Moving to .Net Core 2.0\LoopC\obj\Debug\netcoreapp2.0\LoopC.csproj.CoreCompileInputs.cache
+D:\Programação\Moving to .Net Core 2.0\LoopC\obj\Debug\netcoreapp2.0\LoopC.AssemblyInfoInputs.cache
+D:\Programação\Moving to .Net Core 2.0\LoopC\obj\Debug\netcoreapp2.0\LoopC.AssemblyInfo.cs
+D:\Programação\Moving to .Net Core 2.0\LoopC\obj\Debug\netcoreapp2.0\LoopC.dll
+D:\Programação\Moving to .Net Core 2.0\LoopC\obj\Debug\netcoreapp2.0\LoopC.pdb
